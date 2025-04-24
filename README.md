@@ -13,7 +13,7 @@ This repository contains a project for sentiment analysis of Urdu text using a d
 ## Project Structure
 
 1. **Data Preprocessing**:
-   - The dataset is read and unnecessary columns are removed.
+   - The dataset is readable and unnecessary columns are removed.
    - **Stop Words Removal**: Urdu stop words are removed using a predefined list.
    - **Tokenization**: The text is tokenized into words.
    - **TF-IDF Vectorization**: TF-IDF vectorizer is used to convert text data into numerical format.
